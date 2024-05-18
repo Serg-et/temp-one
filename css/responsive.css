@@ -67,4 +67,11 @@
 	.gallery-box ul li{
 		width: 50%;
 	}
+	.frame-flower{
+		width: 20rem;
+		height: 20rem;
+	}
+	.d-sm-none{
+		display: none;
+	}
 }
